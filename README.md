@@ -2,8 +2,10 @@
 This is a complete project where a OrangeHRM site is automated by writing test suites using selenium-webdriver and TestNg as testing framework.
 The following key modules are automated:
 
+```bash
 * Login
 * Apply Leave
+  ```
 For failed test cases it will take a screenshot aswell at the point of failure.
 
 # Technology:
